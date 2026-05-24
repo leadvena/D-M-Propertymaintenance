@@ -1,0 +1,6 @@
+{
+  "name": "D&M Property Maintenance",
+  "description": "Elegant website for D&M Property Maintenance based in Bristol, UK. Specializing in property & garden maintenance, hedge trims, clearances, jet washing, and custom planters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
